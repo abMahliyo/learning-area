@@ -1,2 +1,2 @@
 # training-java
-Java training code examples
+My path to learning Java⚡
